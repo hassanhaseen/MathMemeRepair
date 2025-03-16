@@ -35,7 +35,7 @@ Welcome to **Math Meme Repair** — an AI-powered tool that fixes viral math mem
 
 ## ✍️ Medium Blog
 
-🔗 [Read the Medium Blog](https://medium.com/@hassanhaseen/math-meme-repair-fine-tuning-gpt-2-to-fix-viral-math-memes-d5a13b7314f5)  
+🔗 [Read the Medium Blog](https://medium.com/@hassanhaseen/math-meme-repair-fine-tuning-gpt-2-to-fix-viral-math-fails-e03451c75983)  
 
 ---
 
