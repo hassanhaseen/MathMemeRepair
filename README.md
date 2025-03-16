@@ -1,6 +1,6 @@
 # 🛠️ Math Meme Repair - Fixing Viral Math Memes with AI
 
-<img src="https://i.imgur.com/Omxezy4.png" alt="Math Meme Repair Logo" width=120 align="right" />
+<img src="https://i.imgur.com/Omxezy4.png" alt="Math Meme Repair Logo" width=150 align="right" />
 
 Welcome to **Math Meme Repair** — an AI-powered tool that fixes viral math meme fails! Whether you're a math nerd, teacher, or meme fan, this tool explains math mistakes in a fun and interactive way.
 
